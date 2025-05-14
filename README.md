@@ -15,8 +15,5 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂Random Dev Meme
-<img src="https://www.generatormix.com/random-memes#google_vignette" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=NHH-031&icon=0&color=0)](https://visitcount.itsvg.in)
